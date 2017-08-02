@@ -8,4 +8,3 @@ elif Olives:
 else:
     print ('Error! I do not recognize this fruit!')
     
-

@@ -1,0 +1,59 @@
+Python 3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+>>> 
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+Traceback (most recent call last):
+  File "/home/student/majd19_lab4/meet2017y1lab4/police.py", line 2, in <module>
+    if is_birthday==True:
+NameError: name 'is_birthday' is not defined
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+no ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+no ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+small ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+big ticket
+>>> 
+======== RESTART: /home/student/majd19_lab4/meet2017y1lab4/police.py ========
+big ticket
+>>> 
